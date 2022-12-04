@@ -1,0 +1,51 @@
+{
+    "name": "generadorColores",
+    "short_name": "Generador de colores",
+    "description": "Generador de paleta de colores",
+    "icons": [
+      {
+        "src": "icons/logo-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-168.png",
+        "sizes": "168x168",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/logo-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/generadorColores/index.html",
+    "display": "fullscreen",
+    "theme_color": "#D6E4E5",
+    "background_color": "#D6E4E5"
+  }
