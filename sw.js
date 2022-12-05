@@ -6,6 +6,7 @@ workbox.precaching.precacheAndRoute([
   'index.html',
   'offline.html',
   'generador.html',
+  'script.js',
   'icons/offline.jpg'
 ]);
 
